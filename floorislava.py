@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Floor is Lava - Jump on platforms to avoid the lava below."""
+
 
 import curses
 import random
